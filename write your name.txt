@@ -1,0 +1,7 @@
+// write a program to print a name 
+
+class PrintMyNmae {
+    public static void main(String[] args) {
+        System.out.println("Adarsh Singh");
+    }
+}
