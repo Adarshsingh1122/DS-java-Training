@@ -1,2 +1,4 @@
-package OOPs;public class Abstraction {
+package OOPs;
+
+public class Abstraction {
 }

@@ -1,2 +1,4 @@
-package OOPs;public class Polymorphisms {
+package OOPs;
+
+public class Polymorphisms {
 }

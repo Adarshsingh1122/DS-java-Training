@@ -1,2 +1,4 @@
-package OOPs;public class Encapsulation {
+package OOPs;
+
+public class Encapsulation {
 }
