@@ -39,4 +39,3 @@ public class CalculatorConstructor
           int a,b,c;
       }
 
-$
